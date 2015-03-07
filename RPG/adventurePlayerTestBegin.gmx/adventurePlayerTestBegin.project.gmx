@@ -8,7 +8,6 @@
   <sprites name="sprites">
     <sprite>sprites\Elucidator</sprite>
     <sprite>sprites\DarkRepulser</sprite>
-    <sprite>sprites\spr_Block</sprite>
     <sprites name="Decoration">
       <sprites name="Nature">
         <sprite>sprites\spr_PineTree</sprite>
@@ -18,6 +17,10 @@
     </sprites>
     <sprites name="System">
       <sprite>sprites\spr_Messaging</sprite>
+      <sprites name="Interactions">
+        <sprite>sprites\spr_Warp</sprite>
+        <sprite>sprites\spr_Block</sprite>
+      </sprites>
     </sprites>
     <sprites name="Characters">
       <sprites name="Kirito">
@@ -40,7 +43,6 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_Kirito</object>
-    <object>objects\obj_Block</object>
     <objects name="Decoration">
       <objects name="Nature">
         <object>objects\obj_PineTree</object>
@@ -50,6 +52,13 @@
     </objects>
     <objects name="System">
       <object>objects\obj_Gamestate</object>
+      <objects name="Interactions">
+        <object>objects\obj_Block</object>
+      </objects>
+      <object>objects\obj_Warp</object>
+      <objects name="Warps">
+        <object>objects\obj_Warp_Forest_Ravine</object>
+      </objects>
     </objects>
   </objects>
   <rooms name="rooms">
