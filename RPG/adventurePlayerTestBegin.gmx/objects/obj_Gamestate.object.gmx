@@ -30,6 +30,7 @@
 global.gamespeed = 1.0;
 
 global.switches = ds_map_create();
+
 </string>
           </argument>
         </arguments>
