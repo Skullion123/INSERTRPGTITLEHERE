@@ -65,7 +65,7 @@
   <rooms name="rooms">
     <room>rooms\rm_Title</room>
     <room>rooms\rm_Forest</room>
-    <room>rooms\room2</room>
+    <room>rooms\rm_ravine</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
