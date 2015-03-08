@@ -31,7 +31,7 @@ event_inherited();
 
 dest_room = rm_Ravine;
 dest_position_x = 448;
-dest_position_y = 800;
+dest_position_y = 0;
 </string>
           </argument>
         </arguments>

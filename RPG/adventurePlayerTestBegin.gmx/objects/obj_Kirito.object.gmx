@@ -32,6 +32,8 @@ R = false;
 D = false;
 L = false;
 
+phy_fixed_rotation=true;
+
 </string>
           </argument>
         </arguments>
@@ -2372,7 +2374,7 @@ if(keyboard_check(vk_down)) {
   <PhysicsObjectGroup>0</PhysicsObjectGroup>
   <PhysicsObjectLinearDamping>0.100000001490116</PhysicsObjectLinearDamping>
   <PhysicsObjectAngularDamping>9001</PhysicsObjectAngularDamping>
-  <PhysicsObjectFriction>0</PhysicsObjectFriction>
+  <PhysicsObjectFriction>0.200000002980232</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>-1</PhysicsObjectKinematic>
   <PhysicsShapePoints>
