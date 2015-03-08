@@ -16,10 +16,15 @@
       </sprites>
     </sprites>
     <sprites name="System">
-      <sprite>sprites\spr_Messaging</sprite>
       <sprites name="Interactions">
-        <sprite>sprites\spr_Warp</sprite>
         <sprite>sprites\spr_Block</sprite>
+        <sprites name="Warps">
+          <sprite>sprites\spr_Warp</sprite>
+          <sprite>sprites\spr_Hero_Start</sprite>
+        </sprites>
+      </sprites>
+      <sprites name="Windows">
+        <sprite>sprites\spr_Messaging</sprite>
       </sprites>
     </sprites>
     <sprites name="Characters">
@@ -37,11 +42,12 @@
   </sprites>
   <backgrounds name="background">
     <background>background\bg_Tileset_1</background>
-    <background>background\bg_Title</background>
+    <background>background\bg_Title_Screen</background>
     <background>background\bg_Tileset_2</background>
+    <background>background\bg_Title</background>
+    <background>background\bg_Other_Title</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
   <objects name="objects">
     <object>objects\obj_Kirito</object>
     <objects name="Decoration">
@@ -56,16 +62,19 @@
       <objects name="Interactions">
         <object>objects\obj_Block</object>
       </objects>
-      <object>objects\obj_Warp</object>
       <objects name="Warps">
-        <object>objects\obj_Warp_Forest_Ravine</object>
+        <object>objects\obj_Hero_Start</object>
+        <object>objects\obj_Base_Warp</object>
+        <objects name="Locations">
+          <object>objects\obj_Warp_Ravine</object>
+        </objects>
       </objects>
     </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_Title</room>
     <room>rooms\rm_Forest</room>
-    <room>rooms\rm_ravine</room>
+    <room>rooms\rm_Ravine</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
