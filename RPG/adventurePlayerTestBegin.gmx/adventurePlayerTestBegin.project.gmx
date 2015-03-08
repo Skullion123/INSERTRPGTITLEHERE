@@ -14,6 +14,7 @@
         <sprite>sprites\spr_Flower</sprite>
         <sprite>sprites\spr_Log</sprite>
       </sprites>
+      <sprite>sprites\spr_Grave</sprite>
     </sprites>
     <sprites name="System">
       <sprites name="Interactions">
@@ -56,6 +57,7 @@
         <object>objects\obj_Flower</object>
         <object>objects\obj_Log</object>
       </objects>
+      <object>objects\obj_Grave</object>
     </objects>
     <objects name="System">
       <object>objects\obj_Gamestate</object>
