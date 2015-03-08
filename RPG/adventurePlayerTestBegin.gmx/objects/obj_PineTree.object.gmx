@@ -70,8 +70,8 @@ depth = y * -1;
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
     <point>32,36</point>
-    <point>60,44</point>
-    <point>32,60</point>
-    <point>8,44</point>
+    <point>52,44</point>
+    <point>34,52</point>
+    <point>12,44</point>
   </PhysicsShapePoints>
 </object>

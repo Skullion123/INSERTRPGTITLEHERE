@@ -51,19 +51,19 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_Kirito" x="32" y="32" name="inst_B427632E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="148" y="444" name="inst_5100AF22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="89" y="18" name="inst_DF2866EC" locked="0" code="" scaleX="1.11000001430511" scaleY="1.125" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="56" y="-53" name="inst_705483EF" locked="0" code="" scaleX="1.0900000333786" scaleY="1.31746029853821" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="220" y="91" name="inst_7FB6EC9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="256" y="21" name="inst_9D400A41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="69" y="243" name="inst_241CA8EA" locked="0" code="" scaleX="0.680000007152557" scaleY="0.952380955219269" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="403" y="39" name="inst_87920EE1" locked="0" code="" scaleX="0.889999985694885" scaleY="0.699999988079071" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Kirito" x="48" y="48" name="inst_7DF755AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="283" y="427" name="inst_4AEE606D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Flower" x="333" y="32" name="inst_29E97A1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="544" y="173" name="inst_31F6EDCA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Flower" x="228" y="28" name="inst_154861C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="277" y="212" name="inst_CEEB5009" locked="0" code="" scaleX="1.0793651342392" scaleY="1.1599999666214" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="401" y="233" name="inst_8ADB6A70" locked="0" code="" scaleX="1.10000002384186" scaleY="1.14285719394684" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="494" y="105" name="inst_DB9B8FD1" locked="0" code="" scaleX="1.3400000333786" scaleY="1.33333337306976" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="407" y="423" name="inst_F239DAC7" locked="0" code="" scaleX="1.28999996185303" scaleY="1.30999994277954" colour="4294967295" rotation="0"/>
     <instance objName="obj_Block" x="0" y="0" name="inst_0DEF8D57" locked="0" code="" scaleX="1" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
     <instance objName="obj_Block" x="64" y="0" name="inst_71D0554C" locked="0" code="" scaleX="18" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
     <instance objName="obj_Block" x="640" y="-7" name="inst_A335014A" locked="0" code="" scaleX="0.100000001490116" scaleY="15" colour="4294967295" rotation="0"/>
@@ -79,19 +79,19 @@
     <instance objName="obj_Flower" x="444" y="139" name="inst_19E7855A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Flower" x="377" y="125" name="inst_C3451CE9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Flower" x="207" y="242" name="inst_A122FCA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Flower" x="558" y="38" name="inst_7BB14435" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="581" y="90" name="inst_1927243B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Flower" x="304" y="399" name="inst_63538D85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Flower" x="243" y="306" name="inst_175C66FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Flower" x="480" y="231" name="inst_7E66B04A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Flower" x="168" y="62" name="inst_BBE4AB48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Log" x="62" y="346" name="inst_D99D1DA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="253" y="75" name="inst_B02FF224" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="284" y="108" name="inst_23967D5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="135" y="100" name="inst_41B9C11B" locked="0" code="" scaleX="0.860000014305115" scaleY="0.769999980926514" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="255" y="63" name="inst_B02FF224" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="472" y="72" name="inst_2A11BBA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="389" y="316" name="inst_92F96113" locked="0" code="" scaleX="1.19000005722046" scaleY="1.27999997138977" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="127" y="-26" name="inst_BFBF3F30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="178" y="73" name="inst_9360D8D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="293" y="50" name="inst_E760E8E2" locked="0" code="" scaleX="1.04999995231628" scaleY="1.08000004291534" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="10" y="197" name="inst_284404B5" locked="0" code="" scaleX="0.839999973773956" scaleY="1.01999998092651" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="567" y="215" name="inst_27C4EFE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="97" y="178" name="inst_E760E8E2" locked="0" code="" scaleX="1.04999995231628" scaleY="1.08000004291534" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="432" y="6" name="inst_4B8EE4C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="-34" y="102" name="inst_E1F6BB25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="-40" y="36" name="inst_4DE3FA4C" locked="0" code="" scaleX="0.769999980926514" scaleY="0.839999973773956" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="-42" y="-19" name="inst_C260F57A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -108,7 +108,7 @@
     <instance objName="obj_PineTree" x="234" y="-45" name="inst_96E644B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="298" y="-53" name="inst_893A31C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="357" y="-42" name="inst_4FDE17D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="399" y="-49" name="inst_0864C7DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Warp_Ravine" x="352" y="480" name="inst_E2D1151D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="387" y="160" name="inst_FC0AEBE9" locked="0" code="" scaleX="1.22000002861023" scaleY="1.234375" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="482" y="306" name="inst_4266BEC5" locked="0" code="" scaleX="1.23000001907349" scaleY="1.3125" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="39" y="379" name="inst_1DE2DFB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -132,24 +132,24 @@
     <instance objName="obj_PineTree" x="-31" y="282" name="inst_4E431915" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="-4" y="271" name="inst_F80B3B32" locked="0" code="" scaleX="0.769999980926514" scaleY="0.968253970146179" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="84" y="439" name="inst_E7416FE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="96" y="390" name="inst_6834CD87" locked="0" code="" scaleX="0.765625" scaleY="1.01999998092651" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="127" y="455" name="inst_C72F14A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="376" y="455" name="inst_1D462FD0" locked="0" code="" scaleX="1.296875" scaleY="1.28999996185303" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="559" y="274" name="inst_E93EC4E9" locked="0" code="" scaleX="1.12999999523163" scaleY="1.26999998092651" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="108" y="429" name="inst_4051A8DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="180" y="436" name="inst_26A613AA" locked="0" code="" scaleX="0.949999988079071" scaleY="0.9375" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="220" y="454" name="inst_3CFC6542" locked="0" code="" scaleX="0.829999983310699" scaleY="0.75" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="136" y="217" name="inst_6D20C2F4" locked="0" code="" scaleX="0.829999983310699" scaleY="0.793650805950165" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="450" y="-12" name="inst_DC3DA712" locked="0" code="" scaleX="1.19000005722046" scaleY="1.19000005722046" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="139" y="294" name="inst_FA853142" locked="0" code="" scaleX="1.11000001430511" scaleY="1.125" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="513" y="11" name="inst_C368A0D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="515" y="-36" name="inst_C6794DB8" locked="0" code="" scaleX="0.790000021457672" scaleY="0.939999997615814" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="431" y="-34" name="inst_37A6F7BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="200" y="417" name="inst_1AEF4542" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="465" y="-41" name="inst_556A29C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="532" y="-11" name="inst_C03BA035" locked="0" code="" scaleX="1.05999994277954" scaleY="1.12698411941528" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="603" y="150" name="inst_9716F615" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="540" y="-39" name="inst_1615FB74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="594" y="-20" name="inst_B5CC9BDA" locked="0" code="" scaleX="1.12999999523163" scaleY="1.21875" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="576" y="-34" name="inst_D29DA51B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="561" y="37" name="inst_D8E03881" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="597" y="137" name="inst_7315B4CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="604" y="54" name="inst_DE9D97F5" locked="0" code="" scaleX="1.0900000333786" scaleY="1.1875" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="589" y="17" name="inst_175B1B13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="573" y="79" name="inst_37C7C8CA" locked="0" code="" scaleX="1.37000000476837" scaleY="1.47000002861023" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="393" y="-23" name="inst_95AA1BB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="606" y="204" name="inst_D287F138" locked="0" code="" scaleX="1.16999995708466" scaleY="1.23000001907349" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="585" y="315" name="inst_0F9FC950" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="565" y="470" name="inst_7825D727" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -157,7 +157,7 @@
     <instance objName="obj_PineTree" x="606" y="425" name="inst_B1C42C5C" locked="0" code="" scaleX="1.23000001907349" scaleY="1.29999995231628" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="594" y="261" name="inst_059040DE" locked="0" code="" scaleX="1.19000005722046" scaleY="1.25396823883057" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="587" y="174" name="inst_4410BCA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="565" y="130" name="inst_C546AFCF" locked="0" code="" scaleX="1.16999995708466" scaleY="1.30999994277954" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="239" y="435" name="inst_3674420B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="496" y="452" name="inst_1A8B7F6B" locked="0" code="" scaleX="1.26999998092651" scaleY="1.3125" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="600" y="380" name="inst_5937848F" locked="0" code="" scaleX="1.12999999523163" scaleY="1.25" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="441" y="447" name="inst_514195C8" locked="0" code="" scaleX="1.35000002384186" scaleY="1.31746029853821" colour="4294967295" rotation="0"/>
@@ -167,20 +167,25 @@
     <instance objName="obj_PineTree" x="512" y="396" name="inst_A2A914CD" locked="0" code="" scaleX="1.0900000333786" scaleY="1.25" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="567" y="350" name="inst_D1014158" locked="0" code="" scaleX="1.22000002861023" scaleY="1.3125" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="610" y="344" name="inst_C53BF9B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="567" y="215" name="inst_27C4EFE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="559" y="274" name="inst_E93EC4E9" locked="0" code="" scaleX="1.12999999523163" scaleY="1.26999998092651" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="150" y="430" name="inst_2C3C5E26" locked="0" code="" scaleX="1.41999995708466" scaleY="1.36000001430511" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="139" y="294" name="inst_FA853142" locked="0" code="" scaleX="1.11000001430511" scaleY="1.125" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="407" y="423" name="inst_F239DAC7" locked="0" code="" scaleX="1.28999996185303" scaleY="1.30999994277954" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="239" y="435" name="inst_3674420B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="263" y="454" name="inst_018B8AAA" locked="0" code="" scaleX="1.14285719394684" scaleY="1.25" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="200" y="417" name="inst_1AEF4542" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="283" y="427" name="inst_4AEE606D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="376" y="455" name="inst_1D462FD0" locked="0" code="" scaleX="1.296875" scaleY="1.28999996185303" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="389" y="316" name="inst_92F96113" locked="0" code="" scaleX="1.19000005722046" scaleY="1.27999997138977" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="151" y="56" name="inst_F6F8EE3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="472" y="72" name="inst_2A11BBA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Warp_Ravine" x="352" y="480" name="inst_E2D1151D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="360" y="9" name="inst_69BB5A28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="615" y="108" name="inst_5970F65D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="557" y="2" name="inst_6AA36695" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="431" y="-38" name="inst_A38CBDE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="479" y="3" name="inst_B5D0EC2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="565" y="48" name="inst_FF3833D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="397" y="28" name="inst_9D6F4E32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="526" y="47" name="inst_38637C8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="466" y="36" name="inst_438A8427" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="525" y="88" name="inst_6F05DB28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="554" y="137" name="inst_F32DE6F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="425" y="60" name="inst_2F684390" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="500" y="122" name="inst_4A27CF8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="367" y="56" name="inst_A7113E7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="17" y="206" name="inst_7AA2FA45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="30" y="251" name="inst_9F234D1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="66" y="208" name="inst_B7518C1D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="97" y="225" name="inst_37BD5F60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="91" y="68" name="inst_F1A03D1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_Tileset_1" x="608" y="448" w="32" h="32" xo="32" yo="544" id="10000003" name="tile_E1A228E4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -666,12 +671,6 @@
     <tile bgName="bg_Tileset_1" x="480" y="224" w="16" h="16" xo="96" yo="512" id="10000670" name="tile_B70D56D7" depth="999999" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_Tileset_1" x="480" y="240" w="16" h="16" xo="96" yo="496" id="10000671" name="tile_BFFEBA5A" depth="999999" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_Tileset_1" x="496" y="240" w="16" h="16" xo="112" yo="528" id="10000672" name="tile_0BE40CD6" depth="999999" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_Tileset_1" x="414" y="100" w="64" h="64" xo="128" yo="416" id="10000855" name="inst_91DCDD57" depth="999998" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_Tileset_1" x="11" y="44" w="64" h="64" xo="128" yo="416" id="10000856" name="inst_37946F16" depth="999998" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_Tileset_1" x="70" y="205" w="64" h="64" xo="128" yo="416" id="10000857" name="inst_CF7A7CE4" depth="999998" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_Tileset_1" x="166" y="164" w="64" h="64" xo="128" yo="416" id="10000858" name="inst_79ECCD22" depth="999998" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_Tileset_1" x="249" y="399" w="64" h="64" xo="128" yo="416" id="10000859" name="inst_D263A294" depth="999998" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_Tileset_1" x="441" y="374" w="64" h="64" xo="128" yo="416" id="10000860" name="inst_C631E77C" depth="999998" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>-1</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
