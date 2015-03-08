@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>///Set up Instance Variables
 
-image_speed = 10;
+image_speed = 0.5;
 
 up = spr_Asuna_U;
 left = spr_Asuna_L;
