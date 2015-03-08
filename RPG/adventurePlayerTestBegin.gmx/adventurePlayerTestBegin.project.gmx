@@ -39,6 +39,16 @@
         <sprite>sprites\spr_Kirito_DS</sprite>
         <sprite>sprites\spr_Kirito_LS</sprite>
       </sprites>
+      <sprites name="Asuna">
+        <sprite>sprites\spr_Asuna_D</sprite>
+        <sprite>sprites\spr_Asuna_L</sprite>
+        <sprite>sprites\spr_Asuna_R</sprite>
+        <sprite>sprites\spr_Asuna_U</sprite>
+        <sprite>sprites\spr_Asuna_DS</sprite>
+        <sprite>sprites\spr_Asuna_LS</sprite>
+        <sprite>sprites\spr_Asuna_RS</sprite>
+        <sprite>sprites\spr_Asuna_US</sprite>
+      </sprites>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -50,7 +60,6 @@
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_Kirito</object>
     <objects name="Decoration">
       <objects name="Nature">
         <object>objects\obj_PineTree</object>
@@ -71,6 +80,12 @@
           <object>objects\obj_Warp_Ravine</object>
         </objects>
       </objects>
+    </objects>
+    <object>objects\object10</object>
+    <objects name="Characters">
+      <object>objects\obj_Base_Character</object>
+      <object>objects\obj_Kirito</object>
+      <object>objects\obj_Asuna</object>
     </objects>
   </objects>
   <rooms name="rooms">

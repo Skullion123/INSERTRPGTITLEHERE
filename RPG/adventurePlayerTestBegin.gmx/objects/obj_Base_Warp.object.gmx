@@ -35,7 +35,7 @@ var dest_position_y;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="obj_Kirito">
+    <event eventtype="4" ename="obj_Base_Character">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -56,8 +56,8 @@ var dest_position_y;
 
 room_goto(dest_room);
 
-obj_Kirito.phy_position_x = dest_position_x;
-obj_Kirito.phy_position_y = dest_position_y;
+obj_Base_Character.phy_position_x = dest_position_x;
+obj_Base_Character.phy_position_y = dest_position_y;
 </string>
           </argument>
         </arguments>

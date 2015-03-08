@@ -41,7 +41,7 @@
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="-1" objName="obj_Kirito" xview="0" yview="0" wview="320" hview="240" xport="0" yport="0" wport="640" hport="480" hborder="320" vborder="240" hspeed="-1" vspeed="-1"/>
+    <view visible="-1" objName="obj_Base_Character" xview="0" yview="0" wview="320" hview="240" xport="0" yport="0" wport="640" hport="480" hborder="320" vborder="240" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
@@ -56,7 +56,7 @@
     <instance objName="obj_PineTree" x="56" y="-53" name="inst_705483EF" locked="0" code="" scaleX="1.0900000333786" scaleY="1.31746029853821" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="220" y="91" name="inst_7FB6EC9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="256" y="21" name="inst_9D400A41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Kirito" x="48" y="48" name="inst_7DF755AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="97" y="225" name="inst_37BD5F60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="283" y="427" name="inst_4AEE606D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Flower" x="333" y="32" name="inst_29E97A1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="544" y="173" name="inst_31F6EDCA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -97,7 +97,7 @@
     <instance objName="obj_PineTree" x="-42" y="-19" name="inst_C260F57A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="66" y="-10" name="inst_AA7FC168" locked="0" code="" scaleX="1.15625" scaleY="1.37000000476837" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="157" y="0" name="inst_B869349B" locked="0" code="" scaleX="1.04999995231628" scaleY="1.046875" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="63" y="53" name="inst_17CB8A10" locked="0" code="" scaleX="0.899999976158142" scaleY="0.857142865657806" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PineTree" x="91" y="68" name="inst_F1A03D1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="330" y="-21" name="inst_26EB175A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="-55" y="67" name="inst_114B5F05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="-55" y="-3" name="inst_E9D4D134" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -184,8 +184,7 @@
     <instance objName="obj_PineTree" x="17" y="206" name="inst_7AA2FA45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="30" y="251" name="inst_9F234D1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_PineTree" x="66" y="208" name="inst_B7518C1D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="97" y="225" name="inst_37BD5F60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PineTree" x="91" y="68" name="inst_F1A03D1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Asuna" x="32" y="0" name="inst_EABCE23B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_Tileset_1" x="608" y="448" w="32" h="32" xo="32" yo="544" id="10000003" name="tile_E1A228E4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

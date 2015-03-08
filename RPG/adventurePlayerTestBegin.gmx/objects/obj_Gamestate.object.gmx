@@ -31,6 +31,8 @@ global.gamespeed = 2.0;
 
 global.switches = ds_map_create();
 
+var debug_speed = false;
+
 </string>
           </argument>
         </arguments>
