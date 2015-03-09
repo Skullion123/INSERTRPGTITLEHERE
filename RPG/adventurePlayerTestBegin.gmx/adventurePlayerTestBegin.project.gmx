@@ -50,6 +50,7 @@
         <sprite>sprites\spr_Asuna_US</sprite>
       </sprites>
     </sprites>
+    <sprite>sprites\spr_Test_Enemy</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_Tileset_1</background>
@@ -57,6 +58,7 @@
     <background>background\bg_Tileset_2</background>
     <background>background\bg_Title</background>
     <background>background\bg_Other_Title</background>
+    <background>background\bg_Test_Terrain</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -81,17 +83,18 @@
         </objects>
       </objects>
     </objects>
-    <object>objects\object10</object>
     <objects name="Characters">
       <object>objects\obj_Base_Character</object>
       <object>objects\obj_Kirito</object>
       <object>objects\obj_Asuna</object>
     </objects>
+    <object>objects\obj_Base_Enemy</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_Title</room>
     <room>rooms\rm_Forest</room>
     <room>rooms\rm_Ravine</room>
+    <room>rooms\rm_Battle</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
