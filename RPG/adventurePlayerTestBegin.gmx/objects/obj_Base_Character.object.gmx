@@ -345,13 +345,13 @@ image_angle = 0;
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>-1</PhysicsObjectKinematic>
   <PhysicsShapePoints>
-    <point>8,32</point>
-    <point>0,22</point>
-    <point>4,18</point>
-    <point>8,16</point>
-    <point>18,16</point>
-    <point>22,18</point>
-    <point>26,22</point>
-    <point>18,32</point>
+    <point>11,32</point>
+    <point>4,22</point>
+    <point>6,19</point>
+    <point>8,18</point>
+    <point>25,18</point>
+    <point>27,19</point>
+    <point>29,22</point>
+    <point>21,32</point>
   </PhysicsShapePoints>
 </object>
